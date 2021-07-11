@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Lee-Sangkwon1/movieproject/static/css/main.a6e1b9a7.chunk.css",
-    "main.js": "/Lee-Sangkwon1/movieproject/static/js/main.7b7a9d4d.chunk.js",
-    "main.js.map": "/Lee-Sangkwon1/movieproject/static/js/main.7b7a9d4d.chunk.js.map",
-    "runtime-main.js": "/Lee-Sangkwon1/movieproject/static/js/runtime-main.1dfc361f.js",
-    "runtime-main.js.map": "/Lee-Sangkwon1/movieproject/static/js/runtime-main.1dfc361f.js.map",
-    "static/js/2.740bfb32.chunk.js": "/Lee-Sangkwon1/movieproject/static/js/2.740bfb32.chunk.js",
-    "static/js/2.740bfb32.chunk.js.map": "/Lee-Sangkwon1/movieproject/static/js/2.740bfb32.chunk.js.map",
-    "static/js/3.c41f7e61.chunk.js": "/Lee-Sangkwon1/movieproject/static/js/3.c41f7e61.chunk.js",
-    "static/js/3.c41f7e61.chunk.js.map": "/Lee-Sangkwon1/movieproject/static/js/3.c41f7e61.chunk.js.map",
-    "index.html": "/Lee-Sangkwon1/movieproject/index.html",
-    "static/css/main.a6e1b9a7.chunk.css.map": "/Lee-Sangkwon1/movieproject/static/css/main.a6e1b9a7.chunk.css.map",
-    "static/js/2.740bfb32.chunk.js.LICENSE.txt": "/Lee-Sangkwon1/movieproject/static/js/2.740bfb32.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Lee-Sangkwon1/movieproject/static/media/logo.6ce24c58.svg"
+    "main.css": "/movieproject/static/css/main.a6e1b9a7.chunk.css",
+    "main.js": "/movieproject/static/js/main.7b7a9d4d.chunk.js",
+    "main.js.map": "/movieproject/static/js/main.7b7a9d4d.chunk.js.map",
+    "runtime-main.js": "/movieproject/static/js/runtime-main.8d3524b0.js",
+    "runtime-main.js.map": "/movieproject/static/js/runtime-main.8d3524b0.js.map",
+    "static/js/2.740bfb32.chunk.js": "/movieproject/static/js/2.740bfb32.chunk.js",
+    "static/js/2.740bfb32.chunk.js.map": "/movieproject/static/js/2.740bfb32.chunk.js.map",
+    "static/js/3.c41f7e61.chunk.js": "/movieproject/static/js/3.c41f7e61.chunk.js",
+    "static/js/3.c41f7e61.chunk.js.map": "/movieproject/static/js/3.c41f7e61.chunk.js.map",
+    "index.html": "/movieproject/index.html",
+    "static/css/main.a6e1b9a7.chunk.css.map": "/movieproject/static/css/main.a6e1b9a7.chunk.css.map",
+    "static/js/2.740bfb32.chunk.js.LICENSE.txt": "/movieproject/static/js/2.740bfb32.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/movieproject/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1dfc361f.js",
+    "static/js/runtime-main.8d3524b0.js",
     "static/js/2.740bfb32.chunk.js",
     "static/css/main.a6e1b9a7.chunk.css",
     "static/js/main.7b7a9d4d.chunk.js"
